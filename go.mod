@@ -1,4 +1,4 @@
-module siphon
+module github.com/Growthers/siphonica
 
 go 1.19
 
